@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 [image2]: ./examples/new/sliding_windows.png
 [image3]: ./examples/new/heatmap.png
 [image4]: ./examples/new/final_output.png
-[image4]: ./examples/new/false_pos.png
+[image5]: ./examples/new/false_pos.png
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
@@ -113,6 +113,7 @@ The output with the input parameters:
 - y start value: 400
 - x start value: 656
 - scale: 1.5
+
 can be seen in the following image.
 
 ![find cars function][image2]
