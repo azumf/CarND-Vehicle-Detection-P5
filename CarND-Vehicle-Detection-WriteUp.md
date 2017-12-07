@@ -157,12 +157,10 @@ This approach increased the performance enormous!
 
 ## Video Implementation
 
-The video I created with my `VehicleDetector` class can accessed by the link below.
-Here's a [link to my video result for the project](./output_videos/project_video_output_smooth.mp4)
-
 #### Project video
 
-Here's a [link to my video result](./output_videos/project_video_output_smooth.mp4)
+The video I created with my `VehicleDetector` class can accessed by the link below.
+Here's a [link to my video result for the project](./output_videos/project_video_output_smooth.mp4)
 
 
 #### Combining it with the advanced lane finding project
