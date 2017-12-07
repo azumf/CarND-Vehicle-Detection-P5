@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 ### Project Writeup - Vehicle Detection
 
 
-**I structured the write up document the same way as the jupyter notebook to make it easier to reference code cells to certain tasks.
+**I structured the write up document the same way as the jupyter notebook to make it easier to reference code cells to certain tasks.**
 
 ## Pre-work
 
