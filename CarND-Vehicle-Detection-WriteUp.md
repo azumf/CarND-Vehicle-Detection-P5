@@ -12,10 +12,10 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 [image1]: ./examples/new/hog.png
-[image2]: ./examples/new/sliding_windows.jpg
-[image3]: ./examples/new/heatmap.jpg
-[image4]: ./examples/new/final_output.jpg
-[image4]: ./examples/new/false_pos.jpg
+[image2]: ./examples/new/sliding_windows.png
+[image3]: ./examples/new/heatmap.png
+[image4]: ./examples/new/final_output.png
+[image4]: ./examples/new/false_pos.png
 
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/513/view) Points
